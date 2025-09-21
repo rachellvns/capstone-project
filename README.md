@@ -3,6 +3,7 @@ Project Title: UMR vs Nutrition: The Protein Minutes Index Across Indonesian Cit
 Overview: 
 **What if the time you spend working each day directly determined whether you could afford enough protein?** 
 Protein, from the Greek protos meaning “primary,” is essential for human health. It fuels growth, repairs tissues, supports immunity, and sustains vital functions. Insufficient protein intake can reduce productivity, compromise immunity, and negatively impact overall well-being.
+This analysis uses city- and commodity-level price data collected from January to August 2025 across DKI Jakarta and DIY.
 This project explores protein accessibility across cities and regencies in DKI Jakarta and DIY by comparing local food prices with regional minimum wages. Using the Protein Minute Index (PMI)—the number of minutes a worker needs to earn enough for 65 grams of protein per day—we translate affordability into a human-centered, relatable metric rather than raw currency.
 Through PMI, this project highlights:
 1. Urban-rural disparities in protein access
